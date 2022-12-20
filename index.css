@@ -1,0 +1,21 @@
+header {
+    border-bottom:solid gainsboro;
+}
+main {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr ;
+    border: 1px solid gray;
+}
+div{
+    width:150px;
+    padding: 100px;
+    background-color: gainsboro;
+    margin: 1px;
+    margin-bottom: 50px;
+}
+
+ /* article {
+    padding: 50px;
+    width: 50px;
+    background-color: gray;
+} */
